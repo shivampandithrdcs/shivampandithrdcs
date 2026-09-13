@@ -13,7 +13,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-5C8DB8?style=flat)
 
 ### 📈 GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivampandithrdcs&show_icons=true&theme=default)
+![Shivam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivampandithrdcs&show_icons=true&theme=default)
+
+## 📌 Featured Project
+**[Fake Job Posting Detector](https://github.com/shivampandithrdcs/fake-job-posting--detector)**
+ML project classifying fraudulent job postings using Logistic Regression, Naive Bayes, and Random Forest — 98% accuracy, built during my AI/ML internship at 3Skill.
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-pandit-965b31417/)
